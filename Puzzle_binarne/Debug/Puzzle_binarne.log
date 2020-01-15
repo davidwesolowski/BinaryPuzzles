@@ -1,0 +1,7 @@
+﻿  conio2.cpp
+  functions.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(36): warning C4005: 'EOF': macro redefinition
+  d:\users\dawid\desktop\i sem. wszystko z pg\puzzle_binarne\puzzle_binarne\puzzle_binarne\conio2.h(31): note: see previous definition of 'EOF'
+  main.cpp
+  Generating Code...
+  Puzzle_binarne.vcxproj -> D:\Users\Dawid\Desktop\I sem. wszystko z pg\puzzle_binarne\Puzzle_binarne\Debug\Puzzle_binarne.exe
